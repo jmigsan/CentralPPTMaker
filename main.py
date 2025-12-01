@@ -46,7 +46,7 @@ def resource_path(relative_path):
 
 # Updated paths for bundled resources
 pptx_template_path = resource_path("Central Mega Template v1.pptx")
-icon_path = resource_path("icon.ico")
+icon_path = resource_path("icon.png")
 logo_path = resource_path("logo.png")
 
 # Function to sanitize file names
